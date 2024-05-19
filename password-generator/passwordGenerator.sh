@@ -1,6 +1,11 @@
 #!/bin/bash
+#Author:	Sidd
+#Created	On: 05/11/2024
+#Description: Generate a random password.
+
 #Random Password Generator
 #user prompt
+
 echo "------"
 echo "Random Password generator Script"
 echo "Please enter the length of the password:  "

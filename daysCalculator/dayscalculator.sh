@@ -1,5 +1,9 @@
 #!/bin/bash/
+#Author:Sidd
+#Created On: 05/15/2024
+#Description: Shows the difference between to date and year progress so far.
 #
+
 # DAYS CALCULATOR
 # Number of days between two dates
 

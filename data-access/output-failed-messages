@@ -1,0 +1,105 @@
+May 19 09:22:04 localhost journal: g_variant_new_string: assertion 'string != NULL' failed
+May 19 09:22:04 localhost journal: g_variant_new_string: assertion 'string != NULL' failed
+May 19 09:22:04 localhost journal: g_variant_new_string: assertion 'string != NULL' failed
+May 19 09:22:04 localhost journal: g_variant_new_string: assertion 'string != NULL' failed
+May 19 09:22:04 localhost journal: g_variant_new_string: assertion 'string != NULL' failed
+May 19 09:22:04 localhost journal: g_variant_new_string: assertion 'string != NULL' failed
+May 19 09:22:04 localhost journal: g_variant_new_string: assertion 'string != NULL' failed
+May 19 09:22:04 localhost journal: g_variant_new_string: assertion 'string != NULL' failed
+May 19 09:22:04 localhost journal: g_variant_new_string: assertion 'string != NULL' failed
+May 19 09:22:04 localhost journal: g_variant_new_string: assertion 'string != NULL' failed
+May 19 09:22:12 localhost journal: Failed fetch permissions from flatpak permission store: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+May 19 09:22:28 localhost dbus[714]: [system] Failed to activate service 'org.bluez': timed out
+May 19 11:56:44 localhost kernel: tsc: Marking TSC unstable due to check_tsc_sync_source failed
+May 19 11:56:44 localhost kernel: acpi PNP0A03:00: fail to add MMCONFIG information, can't access extended PCI configuration space under this bridge.
+May 19 11:56:48 localhost kernel: [drm:vmw_host_log [vmwgfx]] *ERROR* Failed to send host log message.
+May 19 11:56:48 localhost kernel: [drm:vmw_host_log [vmwgfx]] *ERROR* Failed to send host log message.
+May 19 11:57:00 localhost kernel: vboxguest: module verification failed: signature and/or required key missing - tainting kernel
+May 19 11:57:06 localhost augenrules: failure 1
+May 19 11:57:06 localhost augenrules: failure 1
+May 19 11:57:08 localhost rngd: Failed to init entropy source 0: Hardware RNG Device
+May 19 11:57:41 localhost journal: failed to get edid data: EDID length is too small
+May 19 11:57:41 localhost spice-streaming-agent[1868]: Failed to open the streaming device "/dev/virtio-ports/org.spice-space.stream.0": 2 - No such file or directory
+May 19 11:57:43 localhost journal: failed to get edid: unable to get EDID for output
+May 19 12:01:45 localhost spice-streaming-agent[2584]: Failed to open the streaming device "/dev/virtio-ports/org.spice-space.stream.0": 2 - No such file or directory
+May 19 12:01:50 localhost journal: failed to get edid: unable to get EDID for output
+May 19 12:01:56 localhost journal: disabling plugin because: failed to startup dell: Firmware updating not supported
+May 19 12:01:56 localhost journal: disabling plugin because: failed to startup uefi: UEFI firmware updating not supported
+May 19 12:01:56 localhost journal: disabling plugin because: failed to coldplug amt: Unable to find a ME interface
+May 19 12:01:56 localhost journal: disabling plugin because: failed to coldplug synapticsmst: MST firmware updating not supported by OEM
+May 19 12:01:56 localhost journal: disabling plugin because: failed to coldplug thunderbolt_power: missing kernel support for intel-wmi-thunderbolt
+May 19 12:01:58 localhost dbus[736]: [system] Failed to activate service 'org.bluez': timed out
+May 19 12:01:58 localhost pulseaudio[2287]: [pulseaudio] bluez5-util.c: GetManagedObjects() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+May 19 12:02:03 localhost journal: failed to call gs_plugin_refresh on shell-extensions: [*/*/*/source/shell-extensions/*] failed to download https://extensions.gnome.org//static/extensions.json: Cannot resolve hostname
+May 19 12:02:03 localhost journal: failed to call gs_plugin_refresh on odrs: [*/*/*/source/odrs/*] failed to download https://odrs.gnome.org/1.0/reviews/api/ratings: Cannot resolve hostname
+May 19 14:06:34 localhost journal: failed to rescan: Failed to parse /usr/share/applications/ibus-setup.desktop file: cannot process file of type application/x-desktop
+May 19 14:06:42 localhost journal: failed to rescan: No valid root node specified
+May 19 14:06:42 localhost journal: failed to rescan: Failed to parse /usr/share/applications/brasero.desktop file: cannot process file of type application/x-desktop
+May 19 14:06:48 localhost journal: failed to rescan: Failed to parse /usr/share/applications/gnome-background-panel.desktop file: cannot process file of type application/x-desktop
+May 19 14:06:48 localhost journal: failed to rescan: Failed to parse /usr/share/applications/gnome-bluetooth-panel.desktop file: cannot process file of type application/x-desktop
+May 19 14:06:48 localhost journal: failed to rescan: Failed to parse /usr/share/applications/gnome-color-panel.desktop file: cannot process file of type application/x-desktop
+May 19 14:06:48 localhost journal: failed to rescan: Failed to parse /usr/share/applications/gnome-control-center.desktop file: cannot process file of type application/x-desktop
+May 19 14:06:48 localhost journal: failed to rescan: Failed to parse /usr/share/applications/gnome-datetime-panel.desktop file: cannot process file of type application/x-desktop
+May 19 14:06:48 localhost journal: failed to rescan: Failed to parse /usr/share/applications/gnome-default-apps-panel.desktop file: cannot process file of type application/x-desktop
+May 19 14:06:48 localhost journal: failed to rescan: Failed to parse /usr/share/applications/gnome-display-panel.desktop file: cannot process file of type application/x-desktop
+May 19 14:06:48 localhost journal: failed to rescan: Failed to parse /usr/share/applications/gnome-info-overview-panel.desktop file: cannot process file of type application/x-desktop
+May 19 14:06:48 localhost journal: failed to rescan: Failed to parse /usr/share/applications/gnome-keyboard-panel.desktop file: cannot process file of type application/x-desktop
+May 19 14:06:48 localhost journal: failed to rescan: Failed to parse /usr/share/applications/gnome-mouse-panel.desktop file: cannot process file of type application/x-desktop
+May 19 14:06:48 localhost journal: failed to rescan: Failed to parse /usr/share/applications/gnome-network-panel.desktop file: cannot process file of type application/x-desktop
+May 19 14:06:48 localhost journal: failed to rescan: Failed to parse /usr/share/applications/gnome-notifications-panel.desktop file: cannot process file of type application/x-desktop
+May 19 14:06:48 localhost journal: failed to rescan: Failed to parse /usr/share/applications/gnome-online-accounts-panel.desktop file: cannot process file of type application/x-desktop
+May 19 14:06:48 localhost journal: failed to rescan: Failed to parse /usr/share/applications/gnome-power-panel.desktop file: cannot process file of type application/x-desktop
+May 19 14:06:48 localhost journal: failed to rescan: Failed to parse /usr/share/applications/gnome-printers-panel.desktop file: cannot process file of type application/x-desktop
+May 19 14:06:48 localhost journal: failed to rescan: Failed to parse /usr/share/applications/gnome-privacy-panel.desktop file: cannot process file of type application/x-desktop
+May 19 14:06:48 localhost journal: failed to rescan: Failed to parse /usr/share/applications/gnome-region-panel.desktop file: cannot process file of type application/x-desktop
+May 19 14:06:48 localhost journal: failed to rescan: Failed to parse /usr/share/applications/gnome-removable-media-panel.desktop file: cannot process file of type application/x-desktop
+May 19 14:06:48 localhost journal: failed to rescan: Failed to parse /usr/share/applications/gnome-search-panel.desktop file: cannot process file of type application/x-desktop
+May 19 14:06:48 localhost journal: failed to rescan: Failed to parse /usr/share/applications/gnome-sharing-panel.desktop file: cannot process file of type application/x-desktop
+May 19 14:06:48 localhost journal: failed to rescan: Failed to parse /usr/share/applications/gnome-sound-panel.desktop file: cannot process file of type application/x-desktop
+May 19 14:06:48 localhost journal: failed to rescan: Failed to parse /usr/share/applications/gnome-thunderbolt-panel.desktop file: cannot process file of type application/x-desktop
+May 19 14:06:48 localhost journal: failed to rescan: Failed to parse /usr/share/applications/gnome-universal-access-panel.desktop file: cannot process file of type application/x-desktop
+May 19 14:06:48 localhost journal: failed to rescan: Failed to parse /usr/share/applications/gnome-user-accounts-panel.desktop file: cannot process file of type application/x-desktop
+May 19 14:06:48 localhost journal: failed to rescan: Failed to parse /usr/share/applications/gnome-wacom-panel.desktop file: cannot process file of type application/x-desktop
+May 19 14:06:48 localhost journal: failed to rescan: Failed to parse /usr/share/applications/gnome-wifi-panel.desktop file: cannot process file of type application/x-desktop
+May 19 14:06:51 localhost journal: failed to rescan: No valid root node specified
+May 19 14:06:59 localhost journal: failed to rescan: Failed to parse /usr/share/applications/mutter.desktop file: cannot process file of type application/x-desktop
+May 19 14:07:02 localhost journal: failed to rescan: No valid root node specified
+May 19 14:08:24 localhost journal: failed to rescan: Failed to parse /usr/share/applications/java-1.8.0-openjdk-1.8.0.412.b08-1.el7_9.x86_64-policytool.desktop file: cannot process file of type application/x-desktop
+May 19 14:08:44 localhost journal: failed to rescan: Failed to parse /usr/share/applications/evolution-calendar.desktop file: cannot process file of type application/x-desktop
+May 19 14:08:44 localhost journal: failed to rescan: Failed to parse /usr/share/applications/gnome-shell-extension-prefs.desktop file: cannot process file of type application/x-desktop
+May 19 14:08:44 localhost journal: failed to rescan: Failed to parse /usr/share/applications/org.gnome.Shell.PortalHelper.desktop file: cannot process file of type application/x-desktop
+May 19 14:08:44 localhost journal: failed to rescan: Failed to parse /usr/share/applications/org.gnome.Shell.desktop file: cannot process file of type application/x-desktop
+May 19 14:08:53 localhost journal: failed to rescan: No valid root node specified
+May 19 14:08:53 localhost journal: failed to rescan: No valid root node specified
+May 19 14:08:53 localhost journal: failed to rescan: Failed to parse /usr/share/applications/itweb-settings.desktop file: cannot process file of type application/x-desktop
+May 19 14:08:53 localhost journal: failed to rescan: Failed to parse /usr/share/applications/javaws.desktop file: cannot process file of type application/x-desktop
+May 19 14:08:53 localhost journal: failed to rescan: Failed to parse /usr/share/applications/policyeditor.desktop file: cannot process file of type application/x-desktop
+May 19 14:09:03 localhost journal: failed to rescan: Failed to parse /usr/share/applications/firewall-config.desktop file: cannot process file of type application/x-desktop
+May 19 14:09:03 localhost journal: failed to rescan: No valid root node specified
+May 19 14:09:05 localhost journal: failed to rescan: Failed to parse /usr/share/applications/brasero-nautilus.desktop file: cannot process file of type application/x-desktop
+May 19 14:09:31 localhost journal: failed to rescan: Failed to parse /usr/share/applications/firefox.desktop file: cannot process file of type application/x-desktop
+May 19 14:09:31 localhost journal: failed to rescan: No valid root node specified
+May 19 14:09:46 localhost journal: failed to rescan: Failed to parse /usr/share/applications/mount-archive.desktop file: cannot process file of type application/x-desktop
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table mangle --delete POSTROUTING --out-interface virbr0 --protocol udp --destination-port 68 --jump CHECKSUM --checksum-fill' failed: iptables: No chain/target/match by that name.
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table nat --delete POSTROUTING --source 192.168.122.0/24 --destination 224.0.0.0/24 --jump RETURN' failed: iptables: Bad rule (does a matching rule exist in that chain?).
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table nat --delete POSTROUTING --source 192.168.122.0/24 --destination 255.255.255.255/32 --jump RETURN' failed: iptables: Bad rule (does a matching rule exist in that chain?).
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table nat --delete POSTROUTING --source 192.168.122.0/24 -p tcp ! --destination 192.168.122.0/24 --jump MASQUERADE --to-ports 1024-65535' failed: iptables: No chain/target/match by that name.
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table nat --delete POSTROUTING --source 192.168.122.0/24 -p udp ! --destination 192.168.122.0/24 --jump MASQUERADE --to-ports 1024-65535' failed: iptables: No chain/target/match by that name.
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table nat --delete POSTROUTING --source 192.168.122.0/24 ! --destination 192.168.122.0/24 --jump MASQUERADE' failed: iptables: No chain/target/match by that name.
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table filter --delete FORWARD --destination 192.168.122.0/24 --out-interface virbr0 --match conntrack --ctstate ESTABLISHED,RELATED --jump ACCEPT' failed: iptables: Bad rule (does a matching rule exist in that chain?).
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table filter --delete FORWARD --source 192.168.122.0/24 --in-interface virbr0 --jump ACCEPT' failed: iptables: Bad rule (does a matching rule exist in that chain?).
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table filter --delete FORWARD --in-interface virbr0 --out-interface virbr0 --jump ACCEPT' failed: iptables: Bad rule (does a matching rule exist in that chain?).
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table filter --delete FORWARD --out-interface virbr0 --jump REJECT' failed: iptables: No chain/target/match by that name.
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table filter --delete FORWARD --in-interface virbr0 --jump REJECT' failed: iptables: No chain/target/match by that name.
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table filter --delete INPUT --in-interface virbr0 --protocol udp --destination-port 53 --jump ACCEPT' failed: iptables: Bad rule (does a matching rule exist in that chain?).
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table filter --delete INPUT --in-interface virbr0 --protocol tcp --destination-port 53 --jump ACCEPT' failed: iptables: Bad rule (does a matching rule exist in that chain?).
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table filter --delete OUTPUT --out-interface virbr0 --protocol udp --destination-port 68 --jump ACCEPT' failed: iptables: Bad rule (does a matching rule exist in that chain?).
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table filter --delete INPUT --in-interface virbr0 --protocol udp --destination-port 67 --jump ACCEPT' failed: iptables: Bad rule (does a matching rule exist in that chain?).
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table filter --delete INPUT --in-interface virbr0 --protocol tcp --destination-port 67 --jump ACCEPT' failed: iptables: Bad rule (does a matching rule exist in that chain?).
+May 19 14:14:55 localhost journal: g_object_run_dispose: assertion 'G_IS_OBJECT (object)' failed
+May 19 14:14:55 localhost journal: g_object_run_dispose: assertion 'G_IS_OBJECT (object)' failed
+May 19 14:14:55 localhost journal: g_object_run_dispose: assertion 'G_IS_OBJECT (object)' failed
+May 19 14:14:55 localhost journal: g_object_run_dispose: assertion 'G_IS_OBJECT (object)' failed
+May 19 14:14:55 localhost journal: g_object_run_dispose: assertion 'G_IS_OBJECT (object)' failed
+May 19 14:14:55 localhost journal: g_object_run_dispose: assertion 'G_IS_OBJECT (object)' failed
+May 19 14:14:55 localhost journal: g_object_run_dispose: assertion 'G_IS_OBJECT (object)' failed

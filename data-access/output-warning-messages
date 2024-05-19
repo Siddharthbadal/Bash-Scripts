@@ -1,0 +1,53 @@
+May 19 11:57:07 localhost avahi-daemon[707]: WARNING: No NSS support for mDNS detected, consider installing nss-mdns!
+May 19 11:57:15 localhost firewalld[798]: WARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.
+May 19 11:57:41 localhost gnome-session-binary[1647]: WARNING: App 'spice-vdagent.desktop' exited with code 1
+May 19 11:57:41 localhost gnome-session: gnome-session-binary[1647]: WARNING: App 'spice-vdagent.desktop' exited with code 1
+May 19 11:57:43 localhost org.gnome.Shell.desktop: Window manager warning: "XF86RFKill" is not a valid accelerator
+May 19 11:57:44 localhost journal: JS WARNING: [resource:///org/gnome/shell/ui/layout.js 29]: reference to undefined property "MetaWindowX11"
+May 19 12:01:30 localhost gnome-session-binary[1647]: WARNING: Application 'org.gnome.SettingsDaemon.XSettings.desktop' killed by signal 15
+May 19 12:01:30 localhost gnome-session: gnome-session-binary[1647]: WARNING: Application 'org.gnome.SettingsDaemon.XSettings.desktop' killed by signal 15
+May 19 12:01:30 localhost gnome-session: gnome-session-binary[1647]: WARNING: Application 'org.gnome.SettingsDaemon.Clipboard.desktop' killed by signal 15
+May 19 12:01:30 localhost gnome-session: gnome-session-binary[1647]: WARNING: Application 'org.gnome.SettingsDaemon.Datetime.desktop' killed by signal 15
+May 19 12:01:30 localhost gnome-session: gnome-session-binary[1647]: WARNING: Application 'org.gnome.SettingsDaemon.Housekeeping.desktop' killed by signal 15
+May 19 12:01:30 localhost gnome-session: gnome-session-binary[1647]: WARNING: Application 'org.gnome.SettingsDaemon.Keyboard.desktop' killed by signal 15
+May 19 12:01:30 localhost gnome-session: gnome-session-binary[1647]: WARNING: Application 'org.gnome.SettingsDaemon.MediaKeys.desktop' killed by signal 15
+May 19 12:01:30 localhost gnome-session: gnome-session-binary[1647]: WARNING: Application 'org.gnome.SettingsDaemon.Mouse.desktop' killed by signal 15
+May 19 12:01:30 localhost gnome-session: gnome-session-binary[1647]: WARNING: Application 'org.gnome.SettingsDaemon.Power.desktop' killed by signal 15
+May 19 12:01:30 localhost gnome-session: gnome-session-binary[1647]: WARNING: Application 'org.gnome.SettingsDaemon.PrintNotifications.desktop' killed by signal 15
+May 19 12:01:30 localhost gnome-session: gnome-session-binary[1647]: WARNING: Application 'org.gnome.SettingsDaemon.Rfkill.desktop' killed by signal 15
+May 19 12:01:30 localhost gnome-session: gnome-session-binary[1647]: WARNING: Application 'org.gnome.SettingsDaemon.Sharing.desktop' killed by signal 15
+May 19 12:01:30 localhost gnome-session: gnome-session-binary[1647]: WARNING: Application 'org.gnome.SettingsDaemon.Smartcard.desktop' killed by signal 15
+May 19 12:01:30 localhost gnome-session: gnome-session-binary[1647]: WARNING: Lost name on bus: org.gnome.SessionManager
+May 19 12:01:30 localhost gnome-session-binary[1647]: WARNING: Application 'org.gnome.SettingsDaemon.Clipboard.desktop' killed by signal 15
+May 19 12:01:30 localhost gnome-session-binary[1647]: WARNING: Application 'org.gnome.SettingsDaemon.Datetime.desktop' killed by signal 15
+May 19 12:01:30 localhost gnome-session-binary[1647]: WARNING: Application 'org.gnome.SettingsDaemon.Housekeeping.desktop' killed by signal 15
+May 19 12:01:30 localhost gnome-session-binary[1647]: WARNING: Application 'org.gnome.SettingsDaemon.Keyboard.desktop' killed by signal 15
+May 19 12:01:30 localhost gnome-session-binary[1647]: WARNING: Application 'org.gnome.SettingsDaemon.MediaKeys.desktop' killed by signal 15
+May 19 12:01:30 localhost gnome-session-binary[1647]: WARNING: Application 'org.gnome.SettingsDaemon.Mouse.desktop' killed by signal 15
+May 19 12:01:30 localhost gnome-session-binary[1647]: WARNING: Application 'org.gnome.SettingsDaemon.Power.desktop' killed by signal 15
+May 19 12:01:30 localhost gnome-session-binary[1647]: WARNING: Application 'org.gnome.SettingsDaemon.PrintNotifications.desktop' killed by signal 15
+May 19 12:01:30 localhost gnome-session-binary[1647]: WARNING: Application 'org.gnome.SettingsDaemon.Rfkill.desktop' killed by signal 15
+May 19 12:01:30 localhost gnome-session-binary[1647]: WARNING: Application 'org.gnome.SettingsDaemon.Sharing.desktop' killed by signal 15
+May 19 12:01:30 localhost gnome-session-binary[1647]: WARNING: Application 'org.gnome.SettingsDaemon.Smartcard.desktop' killed by signal 15
+May 19 12:01:30 localhost gnome-session-binary[1647]: WARNING: Lost name on bus: org.gnome.SessionManager
+May 19 12:01:44 localhost gnome-session-binary[2033]: WARNING: App 'spice-vdagent.desktop' exited with code 1
+May 19 12:01:44 localhost gnome-session: gnome-session-binary[2033]: WARNING: App 'spice-vdagent.desktop' exited with code 1
+May 19 12:01:49 localhost org.gnome.Shell.desktop: Window manager warning: "XF86RFKill" is not a valid accelerator
+May 19 14:13:16 localhost firewalld[26025]: WARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table mangle --delete POSTROUTING --out-interface virbr0 --protocol udp --destination-port 68 --jump CHECKSUM --checksum-fill' failed: iptables: No chain/target/match by that name.
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table nat --delete POSTROUTING --source 192.168.122.0/24 --destination 224.0.0.0/24 --jump RETURN' failed: iptables: Bad rule (does a matching rule exist in that chain?).
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table nat --delete POSTROUTING --source 192.168.122.0/24 --destination 255.255.255.255/32 --jump RETURN' failed: iptables: Bad rule (does a matching rule exist in that chain?).
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table nat --delete POSTROUTING --source 192.168.122.0/24 -p tcp ! --destination 192.168.122.0/24 --jump MASQUERADE --to-ports 1024-65535' failed: iptables: No chain/target/match by that name.
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table nat --delete POSTROUTING --source 192.168.122.0/24 -p udp ! --destination 192.168.122.0/24 --jump MASQUERADE --to-ports 1024-65535' failed: iptables: No chain/target/match by that name.
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table nat --delete POSTROUTING --source 192.168.122.0/24 ! --destination 192.168.122.0/24 --jump MASQUERADE' failed: iptables: No chain/target/match by that name.
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table filter --delete FORWARD --destination 192.168.122.0/24 --out-interface virbr0 --match conntrack --ctstate ESTABLISHED,RELATED --jump ACCEPT' failed: iptables: Bad rule (does a matching rule exist in that chain?).
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table filter --delete FORWARD --source 192.168.122.0/24 --in-interface virbr0 --jump ACCEPT' failed: iptables: Bad rule (does a matching rule exist in that chain?).
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table filter --delete FORWARD --in-interface virbr0 --out-interface virbr0 --jump ACCEPT' failed: iptables: Bad rule (does a matching rule exist in that chain?).
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table filter --delete FORWARD --out-interface virbr0 --jump REJECT' failed: iptables: No chain/target/match by that name.
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table filter --delete FORWARD --in-interface virbr0 --jump REJECT' failed: iptables: No chain/target/match by that name.
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table filter --delete INPUT --in-interface virbr0 --protocol udp --destination-port 53 --jump ACCEPT' failed: iptables: Bad rule (does a matching rule exist in that chain?).
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table filter --delete INPUT --in-interface virbr0 --protocol tcp --destination-port 53 --jump ACCEPT' failed: iptables: Bad rule (does a matching rule exist in that chain?).
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table filter --delete OUTPUT --out-interface virbr0 --protocol udp --destination-port 68 --jump ACCEPT' failed: iptables: Bad rule (does a matching rule exist in that chain?).
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table filter --delete INPUT --in-interface virbr0 --protocol udp --destination-port 67 --jump ACCEPT' failed: iptables: Bad rule (does a matching rule exist in that chain?).
+May 19 14:13:18 localhost firewalld[26025]: WARNING: COMMAND_FAILED: '/usr/sbin/iptables -w10 -w --table filter --delete INPUT --in-interface virbr0 --protocol tcp --destination-port 67 --jump ACCEPT' failed: iptables: Bad rule (does a matching rule exist in that chain?).
+May 19 14:38:26 localhost org.gnome.Shell.desktop: Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3000006 (sidd@local)
