@@ -1,0 +1,38 @@
+PING www.google.com (142.250.183.164) 56(84) bytes of data.
+64 bytes from bom07s32-in-f4.1e100.net (142.250.183.164): icmp_seq=1 ttl=111 time=39.0 ms
+
+--- www.google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 39.023/39.023/39.023/0.000 ms
+www.google.com is WORKING
+
+PING siddharthbadal.github.io (185.199.111.153) 56(84) bytes of data.
+64 bytes from cdn-185-199-111-153.github.com (185.199.111.153): icmp_seq=1 ttl=53 time=43.3 ms
+
+--- siddharthbadal.github.io ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 43.338/43.338/43.338/0.000 ms
+www.siddharthbadal.com is WORKING
+
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+
+--- 192.168.1.1 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+192.168.1.1 is not working!
+
+PING 192.168.29.2 (192.168.29.2) 56(84) bytes of data.
+
+--- 192.168.29.2 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+192.168.29.2 is not working!
+
+PING x.com (104.244.42.129) 56(84) bytes of data.
+64 bytes from 104.244.42.129: icmp_seq=1 ttl=50 time=143 ms
+
+--- x.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 143.519/143.519/143.519/0.000 ms
+www.x.com is WORKING
+
